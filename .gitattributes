@@ -2,3 +2,7 @@ Movie1_TS264.mat filter=lfs diff=lfs merge=lfs -text
 Movie2_TS264.mat filter=lfs diff=lfs merge=lfs -text
 Movie3_TS264.mat filter=lfs diff=lfs merge=lfs -text
 Movie4_TS264.mat filter=lfs diff=lfs merge=lfs -text
+Movie1_360.mat filter=lfs diff=lfs merge=lfs -text
+Movie2_360.mat filter=lfs diff=lfs merge=lfs -text
+Movie3_360.mat filter=lfs diff=lfs merge=lfs -text
+Movie4_360.mat filter=lfs diff=lfs merge=lfs -text
